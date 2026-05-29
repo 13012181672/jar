@@ -1,7 +1,7 @@
-//资源全部免费，仅供测试交流，请勿内置传播与转卖，微信公众号：奇奇资源库，交流Q群号码：90859992。
+
 
 {
-    "spider": "./spider.jar",
+    "spider": "https://gh-proxy.org/https://github.com/13012181672/jar/raw/refs/heads/main/spider.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
